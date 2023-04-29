@@ -3,8 +3,8 @@
 **How to run the Project:**
 1. Clone this repo using 
    - `https://github.com/kunjankanani/E-Learning-System.git`
-2. Install Netbeans 8.2
-3. Use WAMP server.
+2. Install Netbeans
+3. Use XAMPP server.
 4. First create the MySql database on XAMPP server using the sql file in the repo
 5. And then build and run the LoadingScreen.java or Main.java file from the IDE. 
 
@@ -25,7 +25,7 @@ The system services and goals are established by consultation with system user. 
 💻    Software Requirements:<br>
 *   Windows Operating system.<br>
 *   JRE and JDK.<br>	
-*   MySQL server (WAMP)<br>
+*   MySQL server (XAMPP)<br>
 
 # IMPLEMENTATION <br>
 **Description on Implementation**<br>
