@@ -15,7 +15,7 @@
  ```
  note: Super admin can add new admins
  
- 
+**Demo Video 👇** <br> 
 
 https://github.com/kunjankanani/E-Learning-System/assets/115248453/9c99e049-9a5b-4d19-86e8-ec05c81bfe08
 
