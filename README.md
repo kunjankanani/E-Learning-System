@@ -15,6 +15,12 @@
  ```
  note: Super admin can add new admins
  
+ 
+
+https://github.com/kunjankanani/E-Learning-System/assets/115248453/9c99e049-9a5b-4d19-86e8-ec05c81bfe08
+
+
+ 
 # INTRODUCTION: <br>
 E-Learning System is a desktop-based Windows application developed in Java with Swing and AWT. This project aims at serving Students and Teachers in Online based learning. 
 Admins can add subjects, Teachers can add courses in a particular subject and Students can Enroll courses and study them, and also Students can message other participants in a particular course except the Teacher teaching that course.
@@ -32,7 +38,9 @@ The system services and goals are established by consultation with system user. 
 The goal of this application is to manage the Students, Teachers, Courses and various functions of E-Learning System.
 
 **List of modules with use cases:**<br>
+
 This Java project consists of 3 major modules
+
 *  ***Admin***<br>
    * Admin Login with Username & Password<br>
    * View Profile<br>
@@ -46,6 +54,7 @@ This Java project consists of 3 major modules
    * View All Courses Details<br>
    * Add New Admin<br>
    * Logout<br>
+   
 *  ***Teacher***<br>
    *  Signup<br>
    *  Teacher Login with Username & Password<br>
@@ -59,6 +68,7 @@ This Java project consists of 3 major modules
    *  View My Courses<br>
    *  Update My Course<br>
    *  Logout<br>
+   
 *  ***Student***<br>
    *  Signup<br>
    *  Student Login with Username & Password<br>
